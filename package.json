@@ -1,0 +1,23 @@
+{
+  "name": "ajs-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WandererDL2017/ajs-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WandererDL2017/ajs-nodejs/issues"
+  },
+  "homepage": "https://github.com/WandererDL2017/ajs-nodejs#readme",
+  "devDependencies": {
+    "@wandererdl2017/ajs": "^1.0.0"
+  }
+}
